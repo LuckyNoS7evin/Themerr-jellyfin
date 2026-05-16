@@ -22,6 +22,14 @@
   "update_interval_desc": "The interval, in minutes, between theme song updates.",
   "update_theme_songs": "Update Theme Songs",
   "updating_theme_songs": "Updating theme songs...",
+  "replace_button": "Replace",
+  "replace_button_title": "Replace user supplied theme with ThemerrDB theme",
   "user_provided": "User provided",
-  "year": "Year"
+  "year": "Year",
+  "filter_all": "All",
+  "filter_user_not_in_db": "User supplied, not in ThemerrDB",
+  "filter_user_in_db": "User supplied, in ThemerrDB",
+  "filter_no_theme_in_db": "No theme, in ThemerrDB",
+  "filter_no_theme_not_in_db": "No theme, not in ThemerrDB",
+  "filter_themerr_supplied": "ThemerrDB supplied"
 }
